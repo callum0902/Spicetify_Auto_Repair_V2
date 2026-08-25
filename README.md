@@ -27,12 +27,16 @@ It runs silently in the background, so you don't need to manually run PowerShell
 > 
 ## Installation
 ### 1. Download the files
-Download or clone this repository.
-### 2. Run the installer
-Double-click:
+Download the release.
+### 2. Extract the file
+Right-click the Zip
 ```text
 Spicetify_Auto_Repair_V2_1.zip
 ```
+### Open the Extracted File
+```Spicetify_Auto_Repair_V2_1```
+### Run the .Bat file
+```Install_V2_1.bat```
 
 The installer will:
 1. Copy the repair script to your Local AppData folder.

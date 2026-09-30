@@ -1,4 +1,4 @@
-# Spicetify_Auto_Repair_V2
+# Spicetify_Auto_Repair_V3
 Automatically re-applies Spicetify after Spotify updates — with **zero manual intervention after installation**.
 
 ## What is this?
